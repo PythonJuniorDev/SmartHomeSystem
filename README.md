@@ -28,4 +28,4 @@ A simulation of a smart home system showcasing object-oriented programming princ
 ### Running the Program
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/smarthomesystem.git
+   git clone https://github.com/PythonJuniorDev/SmartHomeSystem.git
